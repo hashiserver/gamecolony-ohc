@@ -1,7 +1,10 @@
-baseURL = 'https://example.org/'
-languageCode = 'ja'
-languageName = 'Japanese'
-defaultContentLanguage = 'ja'
-title = 'gamecolony OHC'
-theme = 'ananke'
+baseURL = "https://example.com"
+languageCode = "jp"
+defaultContentLanguage = "jp"
+title = "gamecolony OHC"
+theme = "cayman-hugo-theme"
 
+[params]
+  # Header text, can be markdown
+  project_name = "gamecolony OHC"
+  project_tagline = "OHC専用 discoud bot 紹介ページ"
