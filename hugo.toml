@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja'
+languageName = 'Japanese'
+defaultContentLanguage = 'ja'
+title = 'gamecolony OHC'
+theme = 'ananke'
+
