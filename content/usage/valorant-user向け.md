@@ -1,6 +1,6 @@
 ---
 title: "valorant専用機能紹介"
-featured_image: "/images/article/BoB05.jpeg"
+featured_image: "/images/BoB05.jpeg"
 ---
 
 # valorant専用機能
